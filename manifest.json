@@ -1,0 +1,10 @@
+{
+  "name": "IMS - Internal Operations Mgmt.",
+  "short_name": "IMS",
+  "description": "すべての人々を熱狂させる店",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDDCDC",
+  "theme_color": "#e53935",
+  "lang": "ja"
+}
